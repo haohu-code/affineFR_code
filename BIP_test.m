@@ -43,7 +43,12 @@ for i = 1:np
     end
 
     % load the problem and make some corrections
-    prob = gurobi_read([folder 'data/' prob_list{i}.name]);
+    try
+        prob = gurobi_read([folder 'data/' prob_list{i}.name]);
+    catch
+        fprintf('this problem is not in data folder\n')
+        continue
+    end
     prob = prob_correction(prob,prob_list{i}.name(1:end-4));
 
     % save the problem information for latex printing
