@@ -1,0 +1,15 @@
+{
+  "created_utc": "2026-08-31T17:51:50.419765+00:00",
+  "archive_dir": "<local SATLIB archive directory>",
+  "results_dir": "SAT/full_screening/results",
+  "paths_anonymized": true,
+  "python": "3.9.6",
+  "numpy": "1.26.4",
+  "scipy": "1.13.1",
+  "gurobi": "11.0.2",
+  "max_vars": 100000,
+  "max_clauses": 150000,
+  "time_limit": 300.0,
+  "threads": 1,
+  "method": "Correct DIMACS token-stream parsing followed by the split affine-FR auxiliary LP; no SDP solve"
+}

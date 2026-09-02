@@ -1,0 +1,697 @@
+{
+  "updated_utc": "2026-08-31T17:53:53.191989+00:00",
+  "total_records": 50306,
+  "families_with_reduction": [
+    "Bejing",
+    "QG",
+    "bf",
+    "blocksworld",
+    "bmc",
+    "hanoi",
+    "jnh",
+    "logistics",
+    "parity",
+    "ssa"
+  ],
+  "by_family": {
+    "BMS_k3_n100_m429": {
+      "processed": 500,
+      "eligible": 500,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "Bejing": {
+      "processed": 16,
+      "eligible": 16,
+      "reduced": 6,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m403_b10": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m403_b30": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m403_b50": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m403_b70": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m403_b90": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m411_b10": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m411_b30": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m411_b50": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m411_b70": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m411_b90": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m418_b10": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m418_b30": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m418_b50": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m418_b70": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m418_b90": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m423_b10": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m423_b30": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m423_b50": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m423_b70": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m423_b90": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m429_b10": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m429_b30": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m429_b50": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m429_b70": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m429_b90": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m435_b10": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m435_b30": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m435_b50": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m435_b70": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m435_b90": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m441_b10": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m441_b30": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m441_b50": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m441_b70": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m441_b90": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m449_b10": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m449_b30": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m449_b50": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m449_b70": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "CBS_k3_n100_m449_b90": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "QG": {
+      "processed": 22,
+      "eligible": 22,
+      "reduced": 22,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "RTI_k3_n100_m429": {
+      "processed": 500,
+      "eligible": 500,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "aim": {
+      "processed": 72,
+      "eligible": 72,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "ais": {
+      "processed": 4,
+      "eligible": 4,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "bf": {
+      "processed": 4,
+      "eligible": 4,
+      "reduced": 4,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "blocksworld": {
+      "processed": 7,
+      "eligible": 7,
+      "reduced": 7,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "bmc": {
+      "processed": 13,
+      "eligible": 7,
+      "reduced": 6,
+      "skipped_size": 6,
+      "errors_or_incomplete": 1
+    },
+    "dubois": {
+      "processed": 13,
+      "eligible": 12,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 1
+    },
+    "f": {
+      "processed": 3,
+      "eligible": 3,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "flat100-239": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "flat125-301": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "flat150-360": {
+      "processed": 101,
+      "eligible": 101,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "flat175-417": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "flat200-479": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "flat30-60": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "flat50-115": {
+      "processed": 999,
+      "eligible": 999,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "flat75-180": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "gcp-large": {
+      "processed": 4,
+      "eligible": 2,
+      "reduced": 0,
+      "skipped_size": 2,
+      "errors_or_incomplete": 0
+    },
+    "hanoi": {
+      "processed": 2,
+      "eligible": 2,
+      "reduced": 2,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "inductive-inference": {
+      "processed": 41,
+      "eligible": 41,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "jnh": {
+      "processed": 50,
+      "eligible": 50,
+      "reduced": 27,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "logistics": {
+      "processed": 4,
+      "eligible": 4,
+      "reduced": 4,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "parity": {
+      "processed": 30,
+      "eligible": 30,
+      "reduced": 15,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "pigeon-hole": {
+      "processed": 5,
+      "eligible": 5,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "pret": {
+      "processed": 8,
+      "eligible": 8,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "ssa": {
+      "processed": 8,
+      "eligible": 8,
+      "reduced": 8,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "sw100-8-lp0-c5": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "sw100-8-lp1-c5": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "sw100-8-lp2-c5": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "sw100-8-lp3-c5": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "sw100-8-lp4-c5": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "sw100-8-lp5-c5": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "sw100-8-lp6-c5": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "sw100-8-lp7-c5": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "sw100-8-lp8-c5": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "sw100-8-p0-c5": {
+      "processed": 1,
+      "eligible": 1,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uf100-430": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uf125-538": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uf150-645": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uf175-753": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uf20-91": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uf200-860": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uf225-960": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uf250-1065": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uf50-218": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uf75-325": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uuf100-430": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uuf125-538": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uuf150-645": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uuf175-753": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uuf200-860": {
+      "processed": 99,
+      "eligible": 99,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uuf225-960": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uuf250-1065": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uuf50-218": {
+      "processed": 1000,
+      "eligible": 1000,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    },
+    "uuf75-325": {
+      "processed": 100,
+      "eligible": 100,
+      "reduced": 0,
+      "skipped_size": 0,
+      "errors_or_incomplete": 0
+    }
+  }
+}

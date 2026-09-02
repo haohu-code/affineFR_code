@@ -1,0 +1,5 @@
+.DS_Store
+MIPLIB/data/*
+!MIPLIB/data/README.md
+SAT/full_screening/archives/*
+!SAT/full_screening/archives/README.md
